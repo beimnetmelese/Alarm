@@ -1,3 +1,3 @@
-Step 1: Clone this Project
-Step 2: pip install pygame
-Step 3: Run main.py file
+__Step 1__: Clone this Project <br />
+__Step 2__: pip install pygame <br />
+__Step 3__: Run main.py file
